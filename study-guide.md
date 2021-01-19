@@ -184,7 +184,7 @@ Drupalize.me has published a concise list of the Drupalize.Me tutorials, and oth
 
 [https://drupalize.me/series/module-development-guide](https://drupalize.me/series/module-development-guide)
 
-![](.gitbook/assets/inner-page-footer.png)
+![](https://github.com/prasadshir/sg-be-d9/tree/28b352d60b6cf4aa533eab7d56d80d5e87020a53/.gitbook/assets/inner-page-footer.png)
 
 Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 

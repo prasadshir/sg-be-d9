@@ -1,6 +1,6 @@
 # Steps to Specialist Certification
 
-![](.gitbook/assets/Backend-Steps.png)
+![](https://github.com/prasadshir/sg-be-d9/tree/28b352d60b6cf4aa533eab7d56d80d5e87020a53/.gitbook/assets/Backend-Steps.png)
 
 **Newcomer:** You are absolutely new to Drupal
 
@@ -35,7 +35,7 @@ You can access these courses for free and review them as many times as you like.
 
 Courses follow a model of 100-level for introductory material, 200-level for application of the concepts, 300-level for advanced concepts, and 400-level for solution architecture.Those with more exposure to Drupal 8 concepts, or with demonstrated development experience with Drupal 7, may skip the D8 100-level courses.
 
-![](.gitbook/assets/developer-learning-paths.png)
+![](https://github.com/prasadshir/sg-be-d9/tree/28b352d60b6cf4aa533eab7d56d80d5e87020a53/.gitbook/assets/developer-learning-paths.png)
 
 ## Gain Practical Experience
 
@@ -54,7 +54,7 @@ Based on your Self Assessment, you may need to gain knowledge and experience in 
 At this stage, you should be ready to take the exam! Follow '**Schedule A Test**' link on [http://acquia.com/certification.](http://acquia.com/certification)  
 Register for the exam. You may choose from an online proctored or an onsite proctored exam delivery option.
 
-![](.gitbook/assets/inner-page-footer.png)
+![](https://github.com/prasadshir/sg-be-d9/tree/28b352d60b6cf4aa533eab7d56d80d5e87020a53/.gitbook/assets/inner-page-footer.png)
 
 Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 

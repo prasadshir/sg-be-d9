@@ -1,6 +1,6 @@
 # Table of contents
 
-* [EXAM STUDY GUIDE: ACQUIA CERTIFIED DRUPAL 8 BACK END SPECIALIST](README.md)
+* [EXAM STUDY GUIDE: ACQUIA CERTIFIED DRUPAL 9 BACK END SPECIALIST](README.md)
 * [About Acquia Certification Program](about-acquia-certification-program.md)
 * [About the exam](about-the-exam.md)
 * [Steps to Specialist Certification](steps-to-specialist-certification.md)

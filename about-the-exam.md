@@ -30,7 +30,7 @@ The basic knowledge and skills required include the following areas and objectiv
 * Developing new or customizing existing modules
 * Knowledge in HTML, CSS, JavaScript/JQuery and Object Oriented PHP
 
-![](.gitbook/assets/inner-page-footer.png)
+![](https://github.com/prasadshir/sg-be-d9/tree/28b352d60b6cf4aa533eab7d56d80d5e87020a53/.gitbook/assets/inner-page-footer.png)
 
 Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 

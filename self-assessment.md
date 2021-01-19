@@ -2,7 +2,7 @@
 
 Experienced Drupalers will likely know their weaknesses more than they know their strengths you might have judged your own skill levels while reading through the four domains listed above. It is quite natural for you to be more experienced and proficient in one domain than another Also, within a domain, it is quite likely that you have hands-on experience on some topics but have never touched other areas within the same domain.
 
-### How to Use Self Assessment
+## How to Use Self Assessment
 
 We suggest you perform a skills and expertise self-analysis with respect to the domains and topics listed in the blueprint. The blueprint lists test objectives \(topics\) for each domain Rank your skills on a scale of 0 to 10 against each test objective \(0 for absolutely zero knowledge or exposure and 10 for complete mastery\).
 
@@ -12,11 +12,11 @@ We suggest you perform a skills and expertise self-analysis with respect to the 
 
 You may use the following table to carry out your evaluation.
 
-### Acquia Certified Drupal 8 Back End Specialist Self-Assessment Table
+## Acquia Certified Drupal 8 Back End Specialist Self-Assessment Table
 
 |  | Topic | Your Score \(1-10\) |
 | :--- | :--- | :--- |
-|  **1** | **Fundamental web development concepts** |  |
+| **1** | **Fundamental web development concepts** |  |
 | 1.1 | Demonstrate knowledge of HTML, CSS, JavaScript. |  |
 | 1.2 | Demonstrate knowledge of OO PHP programing concepts. |  |
 | 1.3 | Demonstrate knowledge of managing dependencies using Composer. |  |
@@ -47,7 +47,7 @@ You may use the following table to carry out your evaluation.
 
 Next we can look at how you can prepare, and what resources are available.
 
-![](.gitbook/assets/inner-page-footer.png)
+![](https://github.com/prasadshir/sg-be-d9/tree/28b352d60b6cf4aa533eab7d56d80d5e87020a53/.gitbook/assets/inner-page-footer.png)
 
 Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 

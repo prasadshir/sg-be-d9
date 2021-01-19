@@ -18,7 +18,7 @@ You can access these courses for free and review them as many times as you like.
 
 Courses follow a model of 100-level for introductory material, 200-level for application of the concepts, 300-level for advanced concepts, and 400-level for solution architecture.Those with more exposure to Drupal 8 concepts, or with demonstrated development experience with Drupal 7, may skip the D8 100-level courses.
 
-![](.gitbook/assets/developer-learning-paths.png)
+![](https://github.com/prasadshir/sg-be-d9/tree/28b352d60b6cf4aa533eab7d56d80d5e87020a53/.gitbook/assets/developer-learning-paths.png)
 
 We have also made a list of online resources and documentation for each learning domain in the [Study Guide](study-guide.md) section
 
@@ -34,7 +34,7 @@ We suggest that you attend a module development course and/or build a small modu
 
 Examples module provides highly documented working code snippets for many of the Drupal APIs and concepts covered under the blueprint of this exam.
 
-![](.gitbook/assets/inner-page-footer.png)
+![](https://github.com/prasadshir/sg-be-d9/tree/28b352d60b6cf4aa533eab7d56d80d5e87020a53/.gitbook/assets/inner-page-footer.png)
 
 Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 
