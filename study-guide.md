@@ -122,19 +122,19 @@ And all other core APIs listed on [https://www.drupal.org/docs/drupal-apis](http
 
 ### 4.1    Demonstrate ability to work with Drupal's theme system using Render API and JavaScript APIs.
 
-[https://www.drupal.org/docs/8/theming](https://www.drupal.org/docs/8/theming)
+[https://www.drupal.org/docs/theming-drupal](https://www.drupal.org/docs/theming-drupal) 
 
-[https://www.drupal.org/docs/8/theming-drupal-8/adding-stylesheets-css-and-javascript-js-to-a-drupal-8-theme](https://www.drupal.org/docs/8/theming-drupal-8/adding-stylesheets-css-and-javascript-js-to-a-drupal-8-theme)
+[https://www.drupal.org/docs/theming-drupal/adding-stylesheets-css-and-javascript-js-to-a-drupal-theme](https://www.drupal.org/docs/theming-drupal/adding-stylesheets-css-and-javascript-js-to-a-drupal-theme) 
 
-[https://www.drupal.org/docs/8/api/javascript-api/javascript-api-overview](https://www.drupal.org/docs/8/api/javascript-api/javascript-api-overview)
+[https://www.drupal.org/docs/drupal-apis/javascript-api/javascript-api-overview](https://www.drupal.org/docs/drupal-apis/javascript-api/javascript-api-overview) 
 
 [https://github.com/acquia-pso/cog](https://github.com/acquia-pso/cog)
 
-### 4.2    Demostrate ability to work with Twig templates and syntax
+### 4.2    Demonstrate ability to work with Twig templates and syntax
 
-[https://www.drupal.org/docs/8/theming/twig](https://www.drupal.org/docs/8/theming/twig)
+[https://www.drupal.org/docs/theming-drupal/twig-in-drupal](https://www.drupal.org/docs/theming-drupal/twig-in-drupal) 
 
-[https://www.drupal.org/docs/8/theming/twig/debugging-twig-templates](https://www.drupal.org/docs/8/theming/twig/debugging-twig-templates)
+[https://www.drupal.org/docs/theming-drupal/twig-in-drupal/debugging-twig-templates](https://www.drupal.org/docs/theming-drupal/twig-in-drupal/debugging-twig-templates)
 
 ## Section 5 : Performance
 
@@ -150,7 +150,7 @@ And all other core APIs listed on [https://www.drupal.org/docs/drupal-apis](http
 
 [https://www.drupal.org/docs/8/api/cache-api/cache-api](https://www.drupal.org/docs/8/api/cache-api/cache-api)
 
-[https://api.drupal.org/api/drupal/core!core.api.php/group/cache/8.2.x](https://api.drupal.org/api/drupal/core!core.api.php/group/cache/8.2.x)
+[https://api.drupal.org/api/drupal/core!core.api.php/group/cache/](https://api.drupal.org/api/drupal/core!core.api.php/group/cache/) 
 
 ## Section 6 : Security
 
@@ -162,11 +162,11 @@ And all other core APIs listed on [https://www.drupal.org/docs/drupal-apis](http
 
 ### 6.2    Demonstrate ability to analyze and resolve security issues arising from site custom code
 
-[https://www.drupal.org/docs/8/security/writing-secure-code-for-drupal-8](https://www.drupal.org/docs/8/security/writing-secure-code-for-drupal-8)
+[https://www.drupal.org/docs/security-in-drupal/writing-secure-code-for-drupal](https://www.drupal.org/docs/security-in-drupal/writing-secure-code-for-drupal)
 
 ### 6.3    Demonstrate the abilty to implement Drupal core security mechanisms
 
-[https://www.drupal.org/docs/8/security](https://www.drupal.org/docs/8/security)
+[https://www.drupal.org/docs/security-in-drupal](https://www.drupal.org/docs/security-in-drupal)
 
 ## Section 7 : Leveraging Community
 
@@ -184,7 +184,7 @@ Drupalize.me has published a concise list of the Drupalize.Me tutorials, and oth
 
 [https://drupalize.me/series/module-development-guide](https://drupalize.me/series/module-development-guide)
 
-![](https://github.com/prasadshir/sg-be-d9/tree/28b352d60b6cf4aa533eab7d56d80d5e87020a53/.gitbook/assets/inner-page-footer.png)
+![](.gitbook/assets/inner-page-footer.png)
 
 Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 
