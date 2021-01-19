@@ -26,7 +26,7 @@ After looking at the sample question, you may realize that the questions rely on
 
 Reading through long lists of documentation or books is not sufficient for answering most questions. You need experience with a number of use cases, applications, common scenarios in a Drupal project. It will also help to have experience with support requests and issues to handle questions of this nature
 
-![](https://github.com/prasadshir/sg-be-d9/tree/28b352d60b6cf4aa533eab7d56d80d5e87020a53/.gitbook/assets/inner-page-footer.png)
+![](.gitbook/assets/inner-page-footer.png)
 
 Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 
