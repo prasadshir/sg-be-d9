@@ -1,16 +1,16 @@
 # Steps to Specialist Certification
 
-![](https://github.com/prasadshir/sg-be-d9/tree/28b352d60b6cf4aa533eab7d56d80d5e87020a53/.gitbook/assets/Backend-Steps.png)
+![](.gitbook/assets/backend-d9-steps.png)
 
 **Newcomer:** You are absolutely new to Drupal
 
-**D7 Developer**: You have Drupal 7 Back end development experience, but new to Drupal 8
+**Learner**: Development experience with previous versions of Drupal, but new to Drupal 9
 
-**D8 Developer**: You have Drupal 8 Back end development experience, wish to get certified.
+**Experienced**: You have Drupal 9 Development experience, wish to get certified.
 
-## Take Acquia Academy 100 Level Courses
+## Take Acquia Academy Basic Level Courses
 
-As a Newcomer to Drupal 8, take introductory courses in Acquia Academy. We have three courses to get you started on your Drupal 8 journey.
+As a Newcomer to Drupal 9, take introductory courses in Acquia Academy \(also found on our [YouTube](https://www.youtube.com/user/AcquiaTV/playlists) channel in playlists\). We have three courses to get you started on your Drupal journey.
 
 * Introduction to Drupal 8
 * Building a Basic Site Using Drupal 8
@@ -18,24 +18,25 @@ As a Newcomer to Drupal 8, take introductory courses in Acquia Academy. We have 
 
 After taking the courses, build a small website on your own to reinforce the concepts learned in the courses.
 
-## Take Acquia Academy 200 Level Courses
+_\(Note: as Drupal 8 and 9 are very similar in architecture and concepts, you may start with the latest of the Drupal 8 or Drupal 9 courses from Acquia Academy\)_
 
-For the Back end Developer path, the next step is to take two comprehensive 200 Level courses in Acquia Academy. The following courses are suggested:
+## Take Acquia Academy Intermediate Level Courses
 
-* Building Websites with Drupal 8
-* Drupal 8 Module Development
+For the Back end Developer path, the next step is to take two comprehensive Intermediate Level courses in Acquia Academy. The following courses are suggested:
 
-If you have previous experience in Drupal 7 development, you should start here. The first course covers advanced site building concepts and in the second course coding and module development concepts are covered from ground-up. The courses also contain hands-on exercises to help you build Drupal 8 based websites and modules.
+* Building Websites with Drupal
+* Drupal Layout and Theming
+* Drupal Module Development
 
-You can access Drupal 8 preparatory courses on Acquia Academy, which you can find here:
+If you have previous experience in Drupal development, you should start here. The first course covers advanced site building concepts and in the second course coding and module development concepts are covered from ground-up. The courses also contain hands-on exercises to help you build Drupal 9 based websites and modules.
+
+You can access Drupal preparatory courses on Acquia Academy, which you can find here:
 
 [**https://acquiacademy.com**](https://acquiacademy.com)
 
 You can access these courses for free and review them as many times as you like. Many of Acquia Academy courses are available, and if you are in an Acquia enablement or training program, you have been assigned the courses you most require to obtain an initial certification.
 
-Courses follow a model of 100-level for introductory material, 200-level for application of the concepts, 300-level for advanced concepts, and 400-level for solution architecture.Those with more exposure to Drupal 8 concepts, or with demonstrated development experience with Drupal 7, may skip the D8 100-level courses.
-
-![](https://github.com/prasadshir/sg-be-d9/tree/28b352d60b6cf4aa533eab7d56d80d5e87020a53/.gitbook/assets/developer-learning-paths.png)
+![](.gitbook/assets/developer-learning-paths.png)
 
 ## Gain Practical Experience
 
@@ -54,7 +55,7 @@ Based on your Self Assessment, you may need to gain knowledge and experience in 
 At this stage, you should be ready to take the exam! Follow '**Schedule A Test**' link on [http://acquia.com/certification.](http://acquia.com/certification)  
 Register for the exam. You may choose from an online proctored or an onsite proctored exam delivery option.
 
-![](https://github.com/prasadshir/sg-be-d9/tree/28b352d60b6cf4aa533eab7d56d80d5e87020a53/.gitbook/assets/inner-page-footer.png)
+![](.gitbook/assets/inner-page-footer.png)
 
 Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 
