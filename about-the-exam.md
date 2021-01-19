@@ -2,7 +2,7 @@
 
 ## Key Information
 
-**Exam Name:** Acquia Certified Back end Specialist - Drupal 8
+**Exam Name:** Acquia Certified Back end Specialist - Drupal 9
 
 **Exam Duration:** 90 minutes
 
@@ -12,9 +12,9 @@
 
 ## About the exam
 
-The purpose of the Acquia Certified Back end Specialist \(D8\) exam is to validate the skills and knowledge of a Drupal Developer in the area of Back end Development \(Coding\). This exam is based on the Drupal 8 platform.
+The purpose of the Acquia Certified Back end Specialist \(D9\) exam is to validate the skills and knowledge of a Drupal Developer in the area of Back end Development \(Coding\). This exam is based on the Drupal 9 platform.
 
-The Drupal 8 Back-end Specialist Certification exam can be taken in a testing center, or in your office, provided certain environmental details can be guaranteed \(such as a webcam on the testing computer\). Do not be discouraged if you do not pass the exam the first time. Many do not.
+The Drupal 9 Back-end Specialist Certification exam can be taken in a testing center, or in your office, provided certain environmental details can be guaranteed \(such as a webcam on the testing computer\). Do not be discouraged if you do not pass the exam the first time. Many do not.
 
 This exam validates a candidate’s ability to:
 
@@ -25,12 +25,12 @@ This exam validates a candidate’s ability to:
 
 The basic knowledge and skills required include the following areas and objective components.
 
-* Professional experience using Drupal 8 technology
-* Setup and configuration of  Drupal 8 sites
+* Professional experience using Drupal 9 technology
+* Setup and configuration of Drupal 9 sites
 * Developing new or customizing existing modules
 * Knowledge in HTML, CSS, JavaScript/JQuery and Object Oriented PHP
 
-![](https://github.com/prasadshir/sg-be-d9/tree/28b352d60b6cf4aa533eab7d56d80d5e87020a53/.gitbook/assets/inner-page-footer.png)
+![](.gitbook/assets/inner-page-footer.png)
 
 Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 
