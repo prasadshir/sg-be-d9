@@ -12,7 +12,7 @@ We suggest you perform a skills and expertise self-analysis with respect to the 
 
 You may use the following table to carry out your evaluation.
 
-## Acquia Certified Drupal 8 Back End Specialist Self-Assessment Table
+## Acquia Certified Drupal 9 Back End Specialist Self-Assessment Table
 
 |  | Topic | Your Score \(1-10\) |
 | :--- | :--- | :--- |
@@ -47,7 +47,7 @@ You may use the following table to carry out your evaluation.
 
 Next we can look at how you can prepare, and what resources are available.
 
-![](https://github.com/prasadshir/sg-be-d9/tree/28b352d60b6cf4aa533eab7d56d80d5e87020a53/.gitbook/assets/inner-page-footer.png)
+![](.gitbook/assets/inner-page-footer.png)
 
 Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 

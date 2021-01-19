@@ -56,17 +56,17 @@ Drush is considered a basic skill for Drupal site development.
 
 ### 1.5 Demonstrate knowledge of Automated Testing concepts
 
-[https://www.drupal.org/docs/8/phpunit](https://www.drupal.org/docs/8/phpunit)
+[https://www.drupal.org/docs/automated-testing](https://www.drupal.org/docs/automated-testing) 
 
-[https://api.drupal.org/api/drupal/core!core.api.php/group/testing/8](https://api.drupal.org/api/drupal/core!core.api.php/group/testing/8)
+[https://api.drupal.org/api/drupal/core!core.api.php/group/testing/](https://api.drupal.org/api/drupal/core!core.api.php/group/testing/)
 
 ## Section 2 : Drupal core API
 
 ### 2.1    Demonstrate an ability to register paths to define how URL requests are handled in Drupal using Routing system and Menu API
 
-[https://www.drupal.org/docs/8/creating-custom-modules](https://www.drupal.org/docs/8/creating-custom-modules)
+[https://www.drupal.org/docs/creating-custom-modules](https://www.drupal.org/docs/creating-custom-modules)
 
-[https://www.drupal.org/docs/8/creating-custom-modules/getting-started-background-prerequisites-drupal-8](https://www.drupal.org/docs/8/creating-custom-modules/getting-started-background-prerequisites-drupal-8)
+[https://www.drupal.org/docs/creating-custom-modules/getting-started-background-prerequisites](https://www.drupal.org/docs/creating-custom-modules/getting-started-background-prerequisites)
 
 [https://www.drupal.org/node/1353118](https://www.drupal.org/node/1353118)
 
@@ -76,33 +76,31 @@ Drush is considered a basic skill for Drupal site development.
 
 ### 2.2    Demonstrate ability to build, alter, validate and submit forms using Form API
 
-[https://www.drupal.org/docs/8/api/form-api](https://www.drupal.org/docs/8/api/form-api)
+[https://www.drupal.org/docs/drupal-apis/form-api](https://www.drupal.org/docs/drupal-apis/form-api)
 
 ### 2.3    Demonstrate ability to interact with the Entity system using Entity API
 
-[https://www.drupal.org/docs/8/api/entity-api](https://www.drupal.org/docs/8/api/entity-api)
+[https://www.drupal.org/docs/drupal-apis/entity-api](https://www.drupal.org/docs/drupal-apis/entity-api)
 
 ### 2.4    Demonstrate ability to use Core APIs for building and extending Drupal functionality
 
-[https://api.drupal.org/api/drupal/core!lib!Drupal.php/function/Drupal%3A%3Aservice/8](https://api.drupal.org/api/drupal/core!lib!Drupal.php/function/Drupal%3A%3Aservice/8)
+[https://api.drupal.org/api/drupal/core!lib!Drupal.php/function/Drupal%3A%3Aservice/](https://api.drupal.org/api/drupal/core!lib!Drupal.php/function/Drupal%3A%3Aservice/)
 
-[https://api.drupal.org/api/drupal/core!core.services.yml/8](https://api.drupal.org/api/drupal/core!core.services.yml/8)
+[https://api.drupal.org/api/drupal/core!core.services.yml/](https://api.drupal.org/api/drupal/core!core.services.yml/)
 
-[https://www.drupal.org/docs/8/api/block-api](https://www.drupal.org/docs/8/api/block-api)
+[https://www.drupal.org/docs/drupal-apis/block-api/block-api-overview](https://www.drupal.org/docs/drupal-apis/block-api/block-api-overview)
 
-[https://www.drupal.org/docs/8/api/cache-api](https://www.drupal.org/docs/8/api/cache-api)
+[https://www.drupal.org/docs/drupal-apis/cache-api](https://www.drupal.org/docs/drupal-apis/cache-api)
 
-[https://www.drupal.org/node/2133171](https://www.drupal.org/node/2133171)
+[https://www.drupal.org/docs/drupal-apis/services-and-dependency-injection](https://www.drupal.org/docs/drupal-apis/services-and-dependency-injection)
 
-[https://api.drupal.org/api/drupal/core!core.api.php/group/container/8](https://api.drupal.org/api/drupal/core!core.api.php/group/container/8)
+[https://api.drupal.org/api/drupal/core!core.api.php/group/container/](https://api.drupal.org/api/drupal/core!core.api.php/group/container/) 
 
-[https://www.drupal.org/docs/8/api/plugin-api](https://www.drupal.org/docs/8/api/plugin-api)
+[https://www.drupal.org/docs/drupal-apis/plugin-api](https://www.drupal.org/docs/drupal-apis/plugin-api)
 
-[https://api.drupal.org/api/drupal/core!modules!views!views.api.php/8.2.x](https://api.drupal.org/api/drupal/core!modules!views!views.api.php/8.2.x)
+[https://api.drupal.org/api/drupal/core!modules!views!views.api.php/](https://api.drupal.org/api/drupal/core!modules!views!views.api.php/)
 
-And all other core APIs listed on [https://www.drupal.org/docs/8/api](https://www.drupal.org/docs/8/api)
-
-[https://docs.acquia.com/tutorials/fast-track-drupal-8-coding/](https://docs.acquia.com/tutorials/fast-track-drupal-8-coding/)
+And all other core APIs listed on [https://www.drupal.org/docs/drupal-apis](https://www.drupal.org/docs/drupal-apis) 
 
 ## Section 3 : Debug code and troubleshooting
 
@@ -117,6 +115,8 @@ And all other core APIs listed on [https://www.drupal.org/docs/8/api](https://ww
 [https://www.drupal.org/project/devel](https://www.drupal.org/project/devel)
 
 [https://www.drupal.org/troubleshooting](https://www.drupal.org/troubleshooting)
+
+[https://www.drupal.org/docs/troubleshooting-drupal](https://www.drupal.org/docs/troubleshooting-drupal) 
 
 ## Section 4 : Theme Integration
 
